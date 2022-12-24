@@ -18,7 +18,6 @@ public class Quastion3 {
         Quastion3 t = new Quastion3();           // Object
         t.m1();  //calling Instance method
 
-
     }
     //Instance Method
 

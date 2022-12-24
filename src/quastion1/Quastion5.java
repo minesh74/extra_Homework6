@@ -20,15 +20,15 @@ public class Quastion5 {
         }
         //static method
        public static void m3(){
-                Quastion5 t=new Quastion5();
-         System.out.println( t.  c*d);
-        System.out.println( t.c/d);
+                Quastion5 t=new Quastion5();             //Object
+         System.out.println( t.  c*d);                   //print statement
+        System.out.println( t.c/d);                      //print statement
         }
         //static method
         public static void m4() {
-        Quastion5 t=new Quastion5();
-                System.out.println( t.c+d);
-                System.out.println( t.c-d);
+        Quastion5 t=new Quastion5();                      //Object
+                System.out.println( t.c+d);               //print statement
+                System.out.println( t.c-d);               //print statement
         }
         public static void main(String [] args ){  // Main method
                 Quastion5 t=new Quastion5();       //object

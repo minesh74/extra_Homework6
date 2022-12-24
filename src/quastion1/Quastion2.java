@@ -19,7 +19,6 @@ public class Quastion2 {
   //Main method
     public static void main(String[] args ) {
         num = 100;
-        name1 = "Minesh";
         m1();                    //calling Static method
 
     }

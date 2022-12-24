@@ -12,8 +12,8 @@ public class Quastion1 {
 
 
         public static void main(String [] args ){     // Mian method declared
-            Quastion1 t = new Quastion1();
-            t.m1();  //calling Instance method
+            Quastion1 t = new Quastion1();            //Object created
+            t.m1();                                   //calling Instance method
 
 
         }
